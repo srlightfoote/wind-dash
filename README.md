@@ -1,2 +1,2 @@
 # wind-dash
-An open source app for wind energy modeling using 'dash'.
+An open source app for wind energy modeling using dash.
